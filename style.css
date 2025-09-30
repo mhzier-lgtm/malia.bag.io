@@ -1,0 +1,224 @@
+#bag{
+    padding-left: 30%;
+    height: auto;
+    width:700px;
+}
+#bag:hover{
+opacity: 50%;
+}
+#bag2{
+    padding-left: 30%;
+    height: auto;
+    width:700px;
+}
+#lippy{
+    height:auto;
+    width: 200px;
+    position: absolute;
+    top: 10%;
+    right: 80%;
+    bottom: 80%;
+    transform: rotate(-20deg);
+}
+#lippy:hover{
+opacity: 50%;
+}
+#book{
+    height:auto;
+    width: 200px;
+    position: absolute;
+    top: 45%;
+    right: 75%;
+    bottom: 80%;
+    transform: rotate(20deg);
+}
+#book:hover{
+opacity: 50%;
+}
+#snax{
+    height:auto;
+    width: 200px;
+     position: absolute;
+    top: 78%;
+    right: 80%;
+    bottom: 0%;
+    transform: rotate(-20deg);
+}
+#snax:hover{
+opacity: 50%;
+}
+#marker{
+    height:auto;
+    width: 200px;
+    position: absolute;
+    top: 20%;
+    left: 80%;
+    bottom: 80%;
+    transform: rotate(160deg);
+}
+#marker:hover{
+opacity: 50%;
+}
+#wallet{
+    height:auto;
+    width: 200px;
+     height:auto;
+    width: 200px;
+     position: absolute;
+    top: 70%;
+    left: 80%;
+    bottom: 10%;
+    transform: rotate(20deg);
+}
+#wallet:hover{
+opacity: 50%;
+}
+
+#lippydos{
+    height:auto;
+    width: 600px;
+    position: fixed;
+    top: 5%;
+    right: 60%;
+    transform: rotate(-20deg);
+}
+#lippydos:hover{
+opacity: 50%;
+}   
+h1{
+    font-size: 60px;
+    font-family: serif;
+    font-style: italic;
+    color: rgb(193, 9, 70);
+    text-align: right;
+    padding-right: 30%;
+}
+p{
+    font-size: 50px;
+    font-family: serif;
+    font-style: italic;
+    color: rgb(193, 9, 70);
+    text-align: right;
+    padding-left: 30%;
+    padding-right: 10%;
+}
+
+
+#bookdos{
+    height:auto;
+    width: 600px;
+    position: fixed;
+    top: 5%;
+    right: 60%;
+    transform: rotate(-20deg);
+}
+#bookdos:hover{
+    opacity: 50%;
+}
+#note{
+    font-size: 50px;
+    font-family: serif;
+    font-style: italic;
+    color: rgb(255, 102, 0);
+    text-align: right;
+    padding-left: 35%;
+    padding-right: 5%;
+}
+h2{
+    font-size: 60px;
+    font-family: serif;
+    font-style: italic;
+    color: rgb(255, 102, 0);
+    text-align: right;
+    padding-right: 25%;
+}
+
+
+#snac{
+    font-size: 50px;
+    font-family: serif;
+    font-style: italic;
+    color: rgb(9, 144, 193);
+    text-align: right;
+    padding-left: 40%;
+    padding-right: 5%;
+}
+#snaxdos{
+    height:auto;
+    width: 600px;
+     position: absolute;
+    right: 90%;
+    left: 1%;
+    top: 10%;
+    transform: rotate(-20deg);
+}
+#snaxdos:hover{
+    opacity:50%;
+}
+h3{
+     font-size: 60px;
+    font-family: serif;
+    font-style: italic;
+    color: rgb(9, 144, 193);
+    text-align: right;
+    padding-right: 15%;
+}
+
+
+#markerdos{
+     height:auto;
+    width: 600px;
+    position: fixed;
+    top: 30%;
+    right: 60%;
+    transform: rotate(100deg);
+}
+#markerdos:hover{
+opacity: 50%;
+}
+#penz{
+    font-size: 50px;
+    font-family: serif;
+    font-style: italic;
+    color: rgb(248, 3, 142);
+    text-align: right;
+    padding-left: 30%;
+    padding-right: 10%;
+}
+h4{
+    font-size: 60px;
+    font-family: serif;
+    font-style: italic;
+    color: rgb(248, 3, 142);
+    text-align: right;
+    padding-right: 15%;
+}
+
+
+#walletdos{
+     height:auto;
+    width: 600px;
+    position: fixed;
+    top: 5%;
+    right: 60%;
+}
+#walletdos:hover{
+    opacity:50%;
+}
+#wall{
+    font-size: 50px;
+    font-family: serif;
+    font-style: italic;
+    color: rgb(10, 81, 35);
+    text-align: right;
+    padding-left: 35%;
+    padding-right: 5%;
+}
+h5{
+     font-size: 60px;
+    font-family: serif;
+    font-style: italic;
+    color: rgb(10, 81, 35);
+    text-align: right;
+    padding-right: 25%;
+}
